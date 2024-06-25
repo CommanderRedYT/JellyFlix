@@ -1,5 +1,9 @@
-.padded-left-withalphapicker {
+/* .padded-left-withalphapicker {
     padding: 0 !important;
     margin: 0 0 0 3.3% !important;
     width: 89vw !important;
+} */
+.alphaPicker-fixed.alphaPicker-tv {
+    right: .4em;
+    right: max(env(safe-area-inset-right),.4em);
 }

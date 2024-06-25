@@ -307,11 +307,6 @@ div#itemDetailPage {
   display: none !important;
 }
 
-.layout-tv .backdropContainer {
-  display: block !important;
-  z-index: -1;
-}
-
 .layout-tv .backgroundContainer.withBackdrop {
   background-color: transparent !important;
 }
@@ -2111,11 +2106,6 @@ h2 {
 
 /*Blur backdrops, feel free to edit the intensity of the filter values*/
 
-.backdropContainer {
-  /*display: none !important;*/
-}
-
-
 .backgroundContainer.withBackdrop {
   opacity: 1;
   z-index: -1;
@@ -2805,7 +2795,7 @@ TODO: fade edges during scroll
 
 .headerTop {
   grid-area: header;
-  /*width:100%;*/
+  width:100%;
 }
 
 .headerRight {
