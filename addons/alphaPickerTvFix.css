@@ -4,6 +4,6 @@
     width: 89vw !important;
 } */
 .alphaPicker-fixed.alphaPicker-tv {
-    right: .4em;
-    right: max(env(safe-area-inset-right),.4em);
+    right: .4em !important;
+    right: max(env(safe-area-inset-right),.4em) !important;
 }
