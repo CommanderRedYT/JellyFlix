@@ -14,7 +14,7 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://da-mena.github.io/JellyFlix/default.css");
+@import url("https://CommanderRedYT.github.io/JellyFlix/default.css");
 ```
 
 <h3>Addons:</h3>
@@ -24,13 +24,13 @@
 - <h4>Backdrop Version:</h3>
 
 ```css
-@import url("https://da-mena.github.io/JellyFlix/addons/full-backdrop.css");
+@import url("https://CommanderRedYT.github.io/JellyFlix/addons/full-backdrop.css");
 ```
 
 - <h4>Card Version:</h3>
 
 ```css
-@import url("https://da-mena.github.io/JellyFlix/addons/cards.css");
+@import url("https://CommanderRedYT.github.io/JellyFlix/addons/cards.css");
 ```
 
 <br>
@@ -38,12 +38,12 @@
 Jellyfin-Blue:
 
 ```css
-@import url("https://da-mena.github.io/JellyFlix/addons/jf-blue.css");
+@import url("https://CommanderRedYT.github.io/JellyFlix/addons/jf-blue.css");
 ```
 Jellyfin-Purple:
 
 ```css
-@import url("https://da-mena.github.io/JellyFlix/addons/jf-purple.css");
+@import url("https://CommanderRedYT.github.io/JellyFlix/addons/jf-purple.css");
 ```
 
 
